@@ -16,15 +16,17 @@ O conhecimento está organizado em camadas, cada uma com um propósito claro.
 
 ## Estrutura do Ecossistema
 
+Este repositório utiliza **Git Submodules** para organizar os Knowledge Bases. Cada KB é um repositório independente linkado como submodule.
+
 ### 🧠 Fundamentos
 
-- **[Programming Knowledge Base](../programming-knowledge-base/)**
+- **[Programming Knowledge Base](Fundamentos/programming-knowledge-base/)**
   - Fundamentos de algoritmos, estruturas de dados e raciocínio computacional
   - Análise de complexidade
   - Implementações em Python
   - Perguntas recorrentes de entrevistas técnicas
 
-- **[Data Science Knowledge Base](../data-science-knowledge-base/)**
+- **[Data Science Knowledge Base](Fundamentos/data-science-knowledge-base/)**
   - Manipulação, análise e visualização de dados com Python
   - EDA (Exploratory Data Analysis)
   - Estatística aplicada
@@ -32,13 +34,13 @@ O conhecimento está organizado em camadas, cada uma com um propósito claro.
 
 ### 🏗️ Arquitetura e Sistemas
 
-- **[Microservices Knowledge Base](../microservices-knowledge-base/)**
+- **[Microservices Knowledge Base](Arquitetura e Sistemas/microservices-knowledge-base/)**
   - Anotações técnicas sobre arquitetura distribuída
   - Patterns e trade-offs
   - Casos reais e anti-patterns
   - STRIDE Threat Modeling
 
-- **[IA/ML Knowledge Base](../ia-ml-knowledge-base/)**
+- **[IA/ML Knowledge Base](Arquitetura e Sistemas/ia-ml-knowledge-base/)**
   - Fundamentos reais de IA aplicada
   - Casos práticos de Machine Learning
   - LLMs com propósito
