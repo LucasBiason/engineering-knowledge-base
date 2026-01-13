@@ -1,0 +1,12 @@
+[submodule "Fundamentos/programming-knowledge-base"]
+	path = Fundamentos/programming-knowledge-base
+	url = https://github.com/LucasBiason/programming-knowledge-base.git
+[submodule "Fundamentos/data-science-knowledge-base"]
+	path = Fundamentos/data-science-knowledge-base
+	url = https://github.com/LucasBiason/data-science-knowledge-base.git
+[submodule "Arquitetura e Sistemas/microservices-knowledge-base"]
+	path = Arquitetura e Sistemas/microservices-knowledge-base
+	url = https://github.com/LucasBiason/microservices-knowledge-base.git
+[submodule "Arquitetura e Sistemas/ia-ml-knowledge-base"]
+	path = Arquitetura e Sistemas/ia-ml-knowledge-base
+	url = https://github.com/LucasBiason/ia-ml-knowledge-base.git
