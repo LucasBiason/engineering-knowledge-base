@@ -2,78 +2,59 @@
 
 **Sistema de conhecimento versionado em engenharia de software, arquitetura e dados.**
 
-Este repositório centraliza meu ecossistema público de estudo, experimentação e aplicação prática em engenharia de software. Não é um conjunto de tutoriais. É um sistema de conhecimento versionado, construído a partir de estudo real, problemas vividos e decisões técnicas documentadas.
+Este repositorio centraliza meu ecossistema publico de estudo, experimentacao e aplicacao pratica em engenharia de software. Nao e um conjunto de tutoriais. E um sistema de conhecimento versionado, construido a partir de estudo real, problemas vividos e decisoes tecnicas documentadas.
 
 ---
 
-## Visão Geral
+## Visao Geral
 
-Este ecossistema existe para consolidar fundamentos técnicos, arquitetura e prática aplicada em um corpo de conhecimento coerente, versionado e evolutivo.
+Este ecossistema existe para consolidar fundamentos tecnicos, arquitetura e pratica aplicada em um corpo de conhecimento coerente, versionado e evolutivo.
 
-O conhecimento está organizado em camadas, cada uma com um propósito claro.
+O conhecimento esta organizado em camadas, cada uma com um proposito claro.
 
 ---
 
 ## Estrutura do Ecossistema
 
-Este repositório utiliza **Git Submodules** para organizar os Knowledge Bases. Cada KB é um repositório independente linkado como submodule.
+Este repositorio utiliza **Git Submodules** para organizar os Knowledge Bases. Cada KB e um repositorio independente linkado como submodule.
 
-### 🧠 Fundamentos
+### Fundamentos
 
 - **[Programming Knowledge Base](Fundamentos/programming-knowledge-base/)**
-  - Fundamentos de algoritmos, estruturas de dados e raciocínio computacional
-  - Análise de complexidade
-  - Implementações em Python
-  - Perguntas recorrentes de entrevistas técnicas
+  - Fundamentos de algoritmos, estruturas de dados e raciocinio computacional
+  - Analise de complexidade
+  - Implementacoes em Python
+  - Perguntas recorrentes de entrevistas tecnicas
 
 - **[Data Science Knowledge Base](Fundamentos/data-science-knowledge-base/)**
-  - Manipulação, análise e visualização de dados com Python
+  - Manipulacao, analise e visualizacao de dados com Python
   - EDA (Exploratory Data Analysis)
-  - Estatística aplicada
-  - Projetos de análise real
+  - Estatistica aplicada
+  - Projetos de analise real
 
-### 🏗️ Arquitetura e Sistemas
+### Arquitetura e Sistemas
 
-- **[Microservices Knowledge Base](Arquitetura e Sistemas/microservices-knowledge-base/)**
-  - Anotações técnicas sobre arquitetura distribuída
+- **[Microservices Knowledge Base](Arquitetura%20e%20Sistemas/microservices-knowledge-base/)**
+  - Anotacoes tecnicas sobre arquitetura distribuida
   - Patterns e trade-offs
   - Casos reais e anti-patterns
   - STRIDE Threat Modeling
 
-- **[IA/ML Knowledge Base](Arquitetura e Sistemas/ia-ml-knowledge-base/)**
-  - Fundamentos reais de IA aplicada
-  - Casos práticos de Machine Learning
-  - LLMs com propósito
-  - Sem hype, foco em aplicação
-
-### 🧰 Infraestrutura e Ferramentas
-
-- **[My Local Place](../../Infraestrutura/my-local-place/)**
-  - Infraestrutura local baseada em containers
-  - Observabilidade
-  - Stack local para desenvolvimento
-
-### 🚀 Projetos Âncora
-
-- **[CQRS Architecture Lab](../../Estudos/programming-lab/architecture/cqrs-events/)**
-  - Laboratório prático de CQRS e Event Sourcing
-  - Decisões arquiteturais documentadas
-  - Trade-offs e evolução
-
-- **[Threat Modeling AI](../../Estudos/Tech Challengers FIAP/threat-modeling-ai/)**
-  - Modelagem de ameaças automatizada com IA
-  - YOLO + STRIDE
-  - Pipeline completo de análise de segurança
+- **[IA/ML Knowledge Base](Arquitetura%20e%20Sistemas/ia-ml-knowledge-base/)**
+  - OpenAI API (fundamentos, chat, imagens, audio, embeddings, vision, advanced)
+  - LangChain (prompts, chains, memory, agents, RAG, cache)
+  - Computer Vision (face detection, pokemon recognition, label inspection)
+  - Data Engineering (PySpark, Airflow)
 
 ---
 
-## Princípios
+## Principios
 
-- **Estudo profundo antes de abstração**
+- **Estudo profundo antes de abstracao**
 - **Clareza sobre trade-offs**
-- **Documentação como ferramenta de aprendizado**
-- **Código como consequência do entendimento**
-- **Aprendizado público e versionado**
+- **Documentacao como ferramenta de aprendizado**
+- **Codigo como consequencia do entendimento**
+- **Aprendizado publico e versionado**
 
 ---
 
@@ -81,37 +62,29 @@ Este repositório utiliza **Git Submodules** para organizar os Knowledge Bases. 
 
 1. **Comece aqui** para entender o ecossistema completo
 2. **Escolha um Knowledge Base** conforme seu interesse
-3. **Siga a estrutura** de cada repositório
-4. **Explore os projetos âncora** para ver aplicação prática
+3. **Siga a estrutura** de cada repositorio
 
 ---
 
 ## Status
 
-Projetos vivos e em evolução contínua.
+Projetos vivos e em evolucao continua.
 
-Este ecossistema não nasce completo. Ele nasce estruturado para crescer.
+| Base | Progresso |
+|------|-----------|
+| Programming KB | ~40% |
+| Data Science KB | ~5% |
+| Microservices KB | ~10% |
+| IA/ML KB | ~55% |
 
----
-
-## Relação entre os Knowledge Bases
-
-Cada Knowledge Base responde a uma camada do mesmo problema: construir sistemas confiáveis, escaláveis e compreensíveis.
-
-- **Programming KB** → Fundamentos computacionais e algorítmicos
-- **Data Science KB** → Manipulação, análise e compreensão de dados
-- **IA/ML KB** → Modelos, inferência e sistemas inteligentes
-- **Microservices KB** → Organização de sistemas complexos em produção
-
-Os projetos âncora materializam conceitos documentados nos knowledge bases, conectando teoria com prática.
+Progresso geral do ecossistema: ~35%.
 
 ---
 
-## Licença
+## Licenca
 
-Este repositório e todos os Knowledge Bases estão licenciados sob a [MIT License](../LICENSE).
+Este repositorio e todos os Knowledge Bases estao licenciados sob a [MIT License](LICENSE).
 
 ---
 
-*Desenvolvido por Lucas Biason para consolidar conhecimentos em engenharia de software e criar uma base de referência técnica completa.*
-
+*Desenvolvido por Lucas Biason para consolidar conhecimentos em engenharia de software e criar uma base de referencia tecnica completa.*
