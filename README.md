@@ -41,8 +41,7 @@ Este repositorio utiliza **Git Submodules** para organizar os Knowledge Bases. C
   - STRIDE Threat Modeling
 
 - **[IA/ML Knowledge Base](Arquitetura%20e%20Sistemas/ia-ml-knowledge-base/)**
-  - OpenAI API (fundamentos, chat, imagens, audio, embeddings, vision, advanced)
-  - LangChain (prompts, chains, memory, agents, RAG, cache)
+  - LangChain (trilha numerada: prompts, LCEL, RAG, memória, agentes, projeto Doc Chat)
   - Computer Vision (face detection, pokemon recognition, label inspection)
   - Data Engineering (PySpark, Airflow)
 
@@ -70,12 +69,12 @@ Este repositorio utiliza **Git Submodules** para organizar os Knowledge Bases. C
 
 Projetos vivos e em evolucao continua.
 
-| Base | Progresso |
-|------|-----------|
-| Programming KB | ~40% |
-| Data Science KB | ~5% |
-| Microservices KB | ~10% |
-| IA/ML KB | ~55% |
+| Base             | Progresso |
+| ---------------- | --------- |
+| Programming KB   | ~40%      |
+| Data Science KB  | ~5%       |
+| Microservices KB | ~10%      |
+| IA/ML KB         | ~55%      |
 
 Progresso geral do ecossistema: ~35%.
 
@@ -87,4 +86,4 @@ Este repositorio e todos os Knowledge Bases estao licenciados sob a [MIT License
 
 ---
 
-*Desenvolvido por Lucas Biason para consolidar conhecimentos em engenharia de software e criar uma base de referencia tecnica completa.*
+_Desenvolvido por Lucas Biason para consolidar conhecimentos em engenharia de software e criar uma base de referencia tecnica completa._
