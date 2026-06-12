@@ -5,8 +5,8 @@
 	path = Fundamentos/data-science-knowledge-base
 	url = https://github.com/LucasBiason/data-science-knowledge-base.git
 [submodule "Arquitetura e Sistemas/microservices-knowledge-base"]
-	path = Arquitetura e Sistemas/microservices-knowledge-base
-	url = https://github.com/LucasBiason/microservices-knowledge-base.git
+	path = Arquitetura e Sistemas/software-architecture-knowledge-base
+	url = https://github.com/LucasBiason/software-architecture-knowledge-base.git
 [submodule "Arquitetura e Sistemas/ia-ml-knowledge-base"]
 	path = Arquitetura e Sistemas/ia-ml-knowledge-base
 	url = https://github.com/LucasBiason/ia-ml-knowledge-base.git
